@@ -1,17 +1,9 @@
-h1{
-    color:#6557;
-
-}
-a{
-    font-size:8rem;
+#img-caption {
+    width: 400px;
 }
 
-@media screen and (min-width: 680px) {
-body {
-background-color: lightgreen;
-}
-}
-nav{
-position:fixed;
-top:0px;
+#image {
+    max-width: 40%;
+    height: auto;
+    display: block;
 }
